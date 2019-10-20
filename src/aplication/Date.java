@@ -2,7 +2,6 @@ package aplication;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.*;
 
 public class Date {
 
@@ -22,7 +21,7 @@ public class Date {
 		System.out.println(y1);
 		System.out.println(y2);
 		
-		
+		System.out.println("Bom dia");
 
 	}
 
