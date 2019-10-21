@@ -10,9 +10,9 @@ public class Date {
 		SimpleDateFormat sdf2 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 
 		
-		Date x1 = new Date();
-		Date x2 = new Date(System.currentTimeMillis());
-		Date x3 = new Date(0L);
+//		Date x1 = new Date();
+//		Date x2 = new Date(System.currentTimeMillis());
+//		Date x3 = new Date(0L);
 		
 		
 		
